@@ -1,0 +1,12 @@
+body{
+    
+    background-image:
+    url("https://assets.vogue.in/photos/62b5943bfa17da75ceebb9ee/2:3/w_1920,c_limit/Vogue_Mumbai_Blue186050x50.jpeg");
+    opacity:0.9;
+
+    h1,h2,h3,ul,a{
+        margin-left:100px;
+        color: black;
+        opacity:1.9;
+    }
+}
